@@ -77,10 +77,11 @@ h1 {
 }
 
 .quote {
-    position: absolute;
-    bottom: 5em;
+    position: relative;
+    /* bottom: 5em;
     right: 5em;
-    width: 50%;
+    width: 50%; */
+    width: 100%;
     height: auto;
     padding: 2em;
     background: white;
